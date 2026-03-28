@@ -1,0 +1,72 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batter",
+    "rating": 791,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": "21.00 Crore",
+    "playerImg": "https://i.ibb.co.com/ZpgWYcj6/kohli.jpg"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 879,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": "18.00 Crore",
+    "playerImg": "https://i.ibb.co.com/3Y88j5sG/bumrah.webp"
+  },
+  {
+    "playerName": "Heinrich Klaasen",
+    "playerCountry": "South Africa",
+    "playerType": "Wicketkeeper-Batter",
+    "rating": 640,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "23.00 Crore",
+    "playerImg": "https://i.ibb.co.com/84TMfQyC/klasen.jpg"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "All-rounder",
+    "rating": 753,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": "18.00 Crore",
+    "playerImg": "https://i.ibb.co.com/50R4cgh/rashid.jpg"
+  },
+  {
+    "playerName": "Travis Head",
+    "playerCountry": "Australia",
+    "playerType": "Batter",
+    "rating": 853,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "14.00 Crore",
+    "playerImg": "https://i.ibb.co.com/bM5bDrq2/travis.webp"
+  },
+  {
+    "playerName": "Ravindra Jadeja",
+    "playerCountry": "India",
+    "playerType": "All-rounder",
+    "rating": 455,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "price": "18.00 Crore",
+    "playerImg": "https://i.ibb.co.com/ch2zb0rP/jadeja.webp"
+  },
+  {
+    "playerName": "Pat Cummins",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 832,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": "18.00 Crore",
+    "playerImg": "https://i.ibb.co.com/JwzzRb1X/pat.jpg"
+  }
+]
