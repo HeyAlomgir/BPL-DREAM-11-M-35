@@ -6,7 +6,7 @@
     "rating": 791,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
-    "price": "21.00 Crore",
+    "price": 500,
     "playerImg": "https://i.ibb.co.com/ZpgWYcj6/kohli.jpg"
   },
   {
@@ -16,7 +16,7 @@
     "rating": 879,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
-    "price": "18.00 Crore",
+    "price":400,
     "playerImg": "https://i.ibb.co.com/3Y88j5sG/bumrah.webp"
   },
   {
@@ -26,7 +26,7 @@
     "rating": 640,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": "23.00 Crore",
+    "price": 600,
     "playerImg": "https://i.ibb.co.com/84TMfQyC/klasen.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "rating": 753,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
-    "price": "18.00 Crore",
+    "price": 300,
     "playerImg": "https://i.ibb.co.com/50R4cgh/rashid.jpg"
   },
   {
@@ -46,7 +46,7 @@
     "rating": 853,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": "14.00 Crore",
+    "price": 700,
     "playerImg": "https://i.ibb.co.com/bM5bDrq2/travis.webp"
   },
   {
@@ -56,7 +56,7 @@
     "rating": 455,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Slow left-arm orthodox",
-    "price": "18.00 Crore",
+    "price": 550,
     "playerImg": "https://i.ibb.co.com/ch2zb0rP/jadeja.webp"
   },
   {
@@ -66,7 +66,7 @@
     "rating": 832,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
-    "price": "18.00 Crore",
+    "price": 4000,
     "playerImg": "https://i.ibb.co.com/JwzzRb1X/pat.jpg"
   }
 ]
